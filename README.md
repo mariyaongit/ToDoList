@@ -1,7 +1,9 @@
 #  Task Manager App
 
-A simple and efficient **Task Manager App** built with **React**. This project utilizes **React Hooks** (`useState`, `useEffect`, `useContext`, `useReducer`, `useRef`, `useMemo`, `useCallback`) to implement task management, dark mode, auto-save, and performance optimizations.
+A simple and efficient **Task Manager App** built with **React**. 
 
+
+**Live Demo:** [ View on Netlify](https://imaginative-custard-18e23c.netlify.app/)  
 ---
 
 ##  Features
